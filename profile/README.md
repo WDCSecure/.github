@@ -21,7 +21,7 @@
 | Simone Romano     | [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?logo=github)](https://github.com/sroman0)   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/simone-romano-383277307/) |
 
 ## Repositories
-1. [**LabWiFi**](https://github.com/WDCSecure/LabWiFi) - Repository containing the Code and resources for the WiFi Lab Report.
+1. [**LabWiFi**](https://github.com/WDCSecure/LabWiFi) - Repository containing the code and resources for the WiFi Lab Report.
 2. [**LabGNSS**](https://github.com/WDCSecure/LabGNSS) - Repository containing the code and resources for the GNSS Lab Report.
 3. [**Sniff-n-Crack**](https://github.com/WDCSecure/Sniff-n-Crack) - Repository containing notes and scripts on wireless tools and attacks.
 <!-- *(Add or remove repositories as needed) *-->
